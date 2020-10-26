@@ -1,7 +1,9 @@
 # No more tedious work with photoshop
-# This is a Photo Processor that put a photo or logo in the center of another images
 
-**the Process of the Script**
+## This is a Photo Processor that put a photo or logo in the center of another images
+
+### the Process of the Script:
+
 >take the photo or logo you want to put in pictures and rename it "logo" and it's has to be in **png** format (.png) put it in the root of the project
 
 >put the image that you want to process them in the images folder then run 
